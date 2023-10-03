@@ -1,0 +1,3 @@
+interface ScoreGoalSt {
+    void scoreGoal();
+}
